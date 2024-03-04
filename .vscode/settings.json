@@ -4,6 +4,7 @@
         "ggplot",
         "labelsize",
         "linewidth",
+        "ticklabel",
         "xlabel",
         "ylabel"
     ]
