@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "cmap",
+        "dtick",
         "edgecolor",
         "edgecolors",
         "fontsize",
@@ -8,6 +9,7 @@
         "labelsize",
         "linewidth",
         "ticklabel",
+        "xaxis",
         "xlabel",
         "ylabel"
     ]
