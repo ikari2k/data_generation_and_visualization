@@ -1,15 +1,18 @@
 {
     "cSpell.words": [
+        "autofmt",
         "cmap",
         "dtick",
         "edgecolor",
         "edgecolors",
+        "facecolor",
         "fontsize",
         "ggplot",
         "labelsize",
         "linewidth",
         "ticklabel",
         "xaxis",
+        "xdate",
         "xlabel",
         "ylabel"
     ]
