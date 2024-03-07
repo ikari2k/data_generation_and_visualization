@@ -10,10 +10,12 @@
         "ggplot",
         "labelsize",
         "linewidth",
+        "lons",
         "ticklabel",
         "xaxis",
         "xdate",
         "xlabel",
+        "yaxis",
         "ylabel"
     ]
 }
